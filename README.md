@@ -8,7 +8,7 @@
 ![VRINDA](VRINDA.png)
 
 # Project 2
-**Title:**[Lukekad Pizza Express Sales performance for 2022.](https://github.com/MAXWELLEHWI/maxwellehwi.github.io)
+**Title:** [Lukekad Pizza Express Sales performance for 2022.](https://github.com/MAXWELLEHWI/maxwellehwi.github.io)
 
 **Project Summary:** The dashboard shows the sales performace of various pizza catogories sold by Lukekad pizza express for the year 2022.
 
